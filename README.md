@@ -51,7 +51,7 @@ Experienced in customer interaction, investigation and data management, I have d
 
 ### 📄 Certificates
 - [Fortinet Certified Associate in Cybersecurity](./assets/Fortinet_Certified_Associate_in_Cybersecurity.pdf)
-- [CISCO – Introduction to Cybersecurity](./assets/SAS_Visual_Analytics.pdf)
+- [CISCO – Introduction to Cybersecurity](https://www.credly.com/badges/c3aa597e-03f4-4a8f-aaee-9889bed18a90)
 - [Coursera – Getting started with SAS Visual Analytics](./assets/SAS_Visual_Analytics.pdf)
 - [Coursera – A Practical Introduction for Querying Databases](./assets/SQL.pdf)
 - [Coursera -  Getting started with Teradata](./assets/Teradata.pdf)
