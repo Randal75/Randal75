@@ -5,27 +5,41 @@ Experienced in customer interaction, investigation and data management, I have d
 <br />
 
 ## 🛠️ Skills
+
 <table>
   <tr>
-    <th style="background-color:#4CAF50; color:white; padding:8px;">Hard Skills</th>
-    <th style="background-color:#2196F3; color:white; padding:8px;">Soft Skills</th>
+    <th style="background-color:#4CAF50; color:white; padding:10px; text-align:center;">Hard Skills</th>
+    <th style="background-color:#2196F3; color:white; padding:10px; text-align:center;">Soft Skills</th>
   </tr>
   <tr>
-    <td style="background-color:#e8f5e9; padding:8px;">
-      Project Management Software<br>
-      Database Management<br>
-      Microsoft One Drive<br>
-      SAS Enterprise<br>
-      Python Programming
+    <td style="background-color:#e8f5e9; padding:12px; vertical-align:top;">
+      📊 Project Management Software<br>
+      🗄️ Database Management<br>
+      ☁️ Microsoft OneDrive<br>
+      📈 SAS Enterprise<br>
+      🧩 Microsoft Office Suite<br>
+      🌐 Google Workspace<br>
+      🐍 Python Programming<br>
+      🛢️ SQL Programming<br>
+      ☁️ Cloud Computing<br>
+      🖥️ Technical Troubleshooting
     </td>
-    <td style="background-color:#e3f2fd; padding:8px;">
-      Microsoft Office<br>
-      Google Workspace<br>
-      Cloud Computing<br>
-      SQL Programming
+    <td style="background-color:#e3f2fd; padding:12px; vertical-align:top;">
+      💬 Effective Communication<br>
+      🧠 Problem Solving<br>
+      🧭 Systems Oversight<br>
+      🎓 Customer Education<br>
+      🔧 Process Improvement<br>
+      🕵️ Investigation Management<br>
+      🧑‍🤝‍🧑 Leadership<br>
+      🧘 De-escalation Techniques<br>
+      📊 Data Analysis<br>
+      🛡️ Compliance & Risk Management
     </td>
   </tr>
 </table>
+
+
 
 ### 🎓 Education
 
