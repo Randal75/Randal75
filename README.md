@@ -4,7 +4,7 @@
 <div style="margin-bottom: 20px;">
     <p style="margin: 5px 0;">
       <span style="font-size: 1.2em;">🔗</span> 
-      <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" style="text-decoration: none; color: #0077b5; font-weight: bold; margin-left: 5px;">View My LinkedIn Profile</a>
+      <a href="www.linkedin.com/in/randal-nelson-aa935916" target="_blank" style="text-decoration: none; color: #0077b5; font-weight: bold; margin-left: 5px;">View My LinkedIn Profile</a>
     </p>
     </div>
 
