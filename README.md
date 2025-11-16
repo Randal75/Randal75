@@ -67,16 +67,16 @@ Experienced in customer interaction, investigation and data management, I have d
   <li style="margin-bottom: 10px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #ff9800;">
     <strong style="font-size: 1.1em;">📱 Sales Field Force Automation</strong>
     <br>
-    <a href="./Master_CyberSecurity.pdf" style="text-decoration: none; color: #007bff; font-weight: bold;">View Document</a>
+    <a href="./assets/sales_force_Automation.pdf" style="text-decoration: none; color: #007bff; font-weight: bold;">View Document</a>
   </li>
   <li style="margin-bottom: 10px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #ff9800;">
     <strong style="font-size: 1.1em;">💰 Cash Management System</strong>
     <br>
-    <a href="./Graduate_CyberSecurity.pdf" style="text-decoration: none; color: #007bff; font-weight: bold;">View Document</a>
+    <a href="./assets/cash_managment.pdf" style="text-decoration: none; color: #007bff; font-weight: bold;">View Document</a>
   </li>
   <li style="margin-bottom: 10px; padding: 5px; background-color: #f0f0f0; border-left: 4px solid #ff9800;">
     <strong style="font-size: 1.1em;">🖥️ HP Server Solution</strong>
     <br>
-    <a href="./Diploma_Project_Management.pdf" style="text-decoration: none; color: #007bff; font-weight: bold;">View Document</a>
+    <a href="./assets/HP_Blade.pdf" style="text-decoration: none; color: #007bff; font-weight: bold;">View Document</a>
   </li>
 </ul>
